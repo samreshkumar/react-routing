@@ -31,7 +31,9 @@ footer{
   background-color: #007bff!important;
   padding:10px;
 }
-
+.minheight{
+  min-height:600px;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

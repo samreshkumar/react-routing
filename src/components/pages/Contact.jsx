@@ -4,7 +4,10 @@ import React from "react";
 const Contact = () =>{
     return(
         <>
-           <div> Welcome to Contact page</div>
+           <h1> Welcome to Contact page</h1>
+           <p className="minheight">
+
+            </p>
         </>
     );
 }
